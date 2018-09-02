@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{721814C6-9433-4A47-8167-DC17C6433E56}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CM.TesteAspNetMvc.Dominio</RootNamespace>
+    <AssemblyName>CM.TesteAspNetMvc.Dominio</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DomainValidation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\DomainValidation.1.0.0\lib\net453\DomainValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidades\DetalheUsuario.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Especificacoes\DetalheUsuario\DetalheDeveTerEnderecoEspecificacao.cs" />
+    <Compile Include="Especificacoes\DetalheUsuario\DetalheDeveTerTelefoneEspecificacao.cs" />
+    <Compile Include="Especificacoes\Usuario\UsuarioDeveTerEmailEspecificacao.cs" />
+    <Compile Include="Especificacoes\Usuario\UsuarioDeveTerNomeEspecificacao.cs" />
+    <Compile Include="Especificacoes\Usuario\UsuarioDeveTerSobrenomeEspecificacao.cs" />
+    <Compile Include="Interfaces\Repositorio\IDetalheRepositorio.cs" />
+    <Compile Include="Interfaces\Repositorio\IRepositorio.cs" />
+    <Compile Include="Interfaces\Repositorio\IUsuarioRepositorio.cs" />
+    <Compile Include="Interfaces\Serviço\IDetalheServico.cs" />
+    <Compile Include="Interfaces\Serviço\IUsuarioServico.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicos\DetalheUsuarioServico.cs" />
+    <Compile Include="Servicos\UsuarioServico.cs" />
+    <Compile Include="Validacoes\DetalheUsuarioAptoCadastroValidacao.cs" />
+    <Compile Include="Validacoes\UsuarioAptoParaCadastroValidacao.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

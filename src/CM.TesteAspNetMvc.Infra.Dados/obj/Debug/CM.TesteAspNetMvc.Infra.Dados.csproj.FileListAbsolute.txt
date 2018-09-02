@@ -1,0 +1,13 @@
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\CM.TesteAspNetMvc.Infra.Dados.dll.config
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\CM.TesteAspNetMvc.Infra.Dados.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\CM.TesteAspNetMvc.Infra.Dados.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\CM.TesteAspNetMvc.Dominio.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\DomainValidation.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\CM.TesteAspNetMvc.Dominio.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\obj\Debug\CM.TesteAspNetMvc.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\obj\Debug\CM.TesteAspNetMvc.Infra.Dados.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Infra.Dados\obj\Debug\CM.TesteAspNetMvc.Infra.Dados.pdb

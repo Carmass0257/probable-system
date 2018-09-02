@@ -1,0 +1,6 @@
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\bin\Debug\CM.TesteAspNetMvc.Dominio.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\bin\Debug\CM.TesteAspNetMvc.Dominio.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\bin\Debug\DomainValidation.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\obj\Debug\CM.TesteAspNetMvc.Dominio.csprojResolveAssemblyReference.cache
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\obj\Debug\CM.TesteAspNetMvc.Dominio.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Dominio\obj\Debug\CM.TesteAspNetMvc.Dominio.pdb

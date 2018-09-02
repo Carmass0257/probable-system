@@ -1,0 +1,17 @@
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Aplicacao.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Aplicacao.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\AutoMapper.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Dominio.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Infra.Dados.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\DomainValidation.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\System.ValueTuple.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\EntityFramework.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Dominio.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\CM.TesteAspNetMvc.Infra.Dados.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\AutoMapper.pdb
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\AutoMapper.xml
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\System.ValueTuple.xml
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\bin\Debug\EntityFramework.xml
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\obj\Debug\CM.TesteAspNetMvc.Aplicacao.csprojResolveAssemblyReference.cache
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\obj\Debug\CM.TesteAspNetMvc.Aplicacao.dll
+C:\CarlosHenriqueMassucato\CM.TesteAspNetMvc\src\CM.TesteAspNetMvc.Aplicacao\obj\Debug\CM.TesteAspNetMvc.Aplicacao.pdb
